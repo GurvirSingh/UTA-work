@@ -9,10 +9,10 @@ The websites are a part of the web modernization project which is building respo
 4. Counseling and Psychological services - https://www.uta.edu/student-affairs/caps, Launched December 2020
 </p>
 
-Converted this:
+<h2>Converted this:</h2>
 <img src="https://github.com/GurvirSingh/UTA-work/blob/main/screencapture-www-uta-edu-leadership-about-index-php-1592076505466.png"/>
 
 
-To this:
+<h2>To this:</h2>
 <img src="https://github.com/GurvirSingh/UTA-work/blob/main/screencapture-cms-prod-web-uta-edu-1592076446297.png"/>
 
