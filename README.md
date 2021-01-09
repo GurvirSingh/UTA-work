@@ -3,9 +3,9 @@
 The websites are a part of the web modernization project which is building responsive, asthetic and pixel perfect websites for UTA
 
 <p>
-1. Follett Student Leadership Center - https://www.uta.edu/student-affairs/leadership, Launched August 2020<br/>
-2. Free Speech, Expression and Assembliy - https://www.uta.edu/student-affairs/free-speech, Launched September 2020<br/>
-3. Health Services - https://www.uta.edu/student-affairs/health-services, Launched October 2020<br/>
+1. Follett Student Leadership Center - https://www.uta.edu/student-affairs/leadership, Launched August 2020<br/><br/>
+2. Free Speech, Expression and Assembliy - https://www.uta.edu/student-affairs/free-speech, Launched September 2020<br/><br/>
+3. Health Services - https://www.uta.edu/student-affairs/health-services, Launched October 2020<br/><br/>
 4. Counseling and Psychological services - https://www.uta.edu/student-affairs/caps, Launched December 2020
 </p>
 
