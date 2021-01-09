@@ -12,5 +12,3 @@ The websites are a part of the web modernization project which is building respo
 Converted this:
 <imp src="https://github.com/GurvirSingh/UTA-work/blob/main/screencapture-www-uta-edu-leadership-about-index-php-1592076505466.png"/>
 
-To this:
-<img src="https://github.com/GurvirSingh/UTA-work/blob/main/screencapture-cms-prod-web-uta-edu-1592076446297.png"/>
