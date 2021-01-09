@@ -1,6 +1,6 @@
 # UTA-work
 <h2>Hey, there! The following are the links to the website I build for the Department of Student Affairs at UTA</h2>
-#The websites are a part of the web modernization project which is building responsive, asthetic and pixel perfect websites for UTA
+The websites are a part of the web modernization project which is building responsive, asthetic and pixel perfect websites for UTA
 1. Follett Student Leadership Center - https://www.uta.edu/student-affairs/leadership, Launched August 2020
 2. Free Speech, Expression and Assembliy - https://www.uta.edu/student-affairs/free-speech, Launched September 2020
 3. Health Services - https://www.uta.edu/student-affairs/health-services, Launched October 2020
