@@ -11,7 +11,7 @@ The websites are a part of the web modernization project which is building respo
 
 <h2>Converted this:</h2>
 
-<img src="https://github.com/GurvirSingh/UTA-work/blob/main/screencapture-www-uta-edu-leadership-about-index-php-1592076505466.png" style="border: 20px solid black"/>
+<img src="https://github.com/GurvirSingh/UTA-work/blob/main/screencapture-www-uta-edu-leadership-about-index-php-1592076505466.png"/>
 
 
 <h2>To this:</h2>
