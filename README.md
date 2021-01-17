@@ -1,6 +1,8 @@
 # UTA-work
-<h2>Hey, there! The following are the links to the website I build for the Department of Student Affairs at UTA</h2>
-The websites are a part of the web modernization project which is building responsive, asthetic and pixel perfect websites for UTA
+<h2>Hey, there! The following are the links to the website I built for the Department of Student Affairs at UTA</h2>
+The websites are a part of the web modernization project, which is building responsive, aesthetic, and pixel-perfect websites for UTA. I worked as a web developer working mostly on developing the front end. I also worked on API services provided by UTA events to get data and present it using JavaScript. Good communication played a key role in the efficient sharing of ideas between each department head and the web team, as most communication was online I believe this role prepared me to accept changes that are uncomfortable but required for the betterment of all. 
+
+The links to the live websites are as followed:
 
 <p>
 1. Follett Student Leadership Center - https://www.uta.edu/student-affairs/leadership, Launched August 2020<br/><br/>
